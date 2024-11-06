@@ -45,7 +45,7 @@ Build the Docker Image:
 
 **Acknowledgements**
 This project uses SQLite for lightweight database management.
-Thanks to SQLAlchemy for providing ORM capabilities. 
+
 
 
 
